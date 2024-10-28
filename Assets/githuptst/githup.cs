@@ -8,6 +8,9 @@ public class githup : MonoBehaviour
     void Start()
     {
         Debug.Log(" hi saja");
+        Debug.Log(" hi ya saja");
+
+
         
     }
 
