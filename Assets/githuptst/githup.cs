@@ -11,6 +11,7 @@ public class githup : MonoBehaviour
         Debug.Log(" hi ya saja");
 
 
+        Debug.Log("saja");
         
     }
 
