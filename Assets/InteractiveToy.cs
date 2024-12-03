@@ -5,8 +5,8 @@ using UnityEngine;
 public class NewBehaviourScript : MonoBehaviour
 {
     // Start is called before the first frame update
-     public float moveSpeed = 5f;    // سرعة الحركة
-    public float scaleSpeed = 0.5f; // سرعة تغيير الحجم
+     public float moveSpeed = 5f ;    // سرعة الحركة
+    public float scaleSpeed = 0.5f ; // سرعة تغيير الحجم
 
     void Start()
     {
